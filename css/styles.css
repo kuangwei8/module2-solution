@@ -4,11 +4,11 @@
   box-sizing: border-box;
 
 }
-body {
+/*body {
   background-color: #1D1D2C;
-}
+}*/
 h1 {
-  color: white;
+  color: #1D1D2C;
   text-align: center;
   margin-bottom: 30px;
   position: relative;
@@ -17,7 +17,7 @@ h1 {
 
 .section{
   position: relative;
-  background-color: #EBA63F;
+  background-color: grey;
   border: 1px solid black;
   padding-bottom: 30px;
   margin-bottom: 10px;
@@ -35,6 +35,12 @@ h2 {
   top: -20px;
   right: 0;  
   font-family: "Gill Sans", sans-serif;
+}
+#chicken {
+  background-color: salmon;
+}
+#beef {
+  background-color: yellow;
 }
 
 p {
